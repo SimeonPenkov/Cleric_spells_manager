@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cleric_spells_manager/static/css/main.a946301d.css",
+    "main.js": "/Cleric_spells_manager/static/js/main.7f08cb2b.js",
+    "index.html": "/Cleric_spells_manager/index.html",
+    "main.a946301d.css.map": "/Cleric_spells_manager/static/css/main.a946301d.css.map",
+    "main.7f08cb2b.js.map": "/Cleric_spells_manager/static/js/main.7f08cb2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a946301d.css",
+    "static/js/main.7f08cb2b.js"
+  ]
+}
